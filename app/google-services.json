@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495899232236",
+    "firebase_url": "https://szakdolgozatfinal-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "szakdolgozatfinal",
+    "storage_bucket": "szakdolgozatfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495899232236:android:a3801ca1fa4ff1319a62c9",
+        "android_client_info": {
+          "package_name": "com.example.szakdolgozatfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495899232236-hhrd3oa60io8ikgcqmagbn80ujkt2cfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.szakdolgozatfinal",
+            "certificate_hash": "79d7efb741c28d95003dc150ed1760dd0f3e4542"
+          }
+        },
+        {
+          "client_id": "495899232236-kfjg2qo5lpra7ful80dlt5thc8gsnvq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDug5cri7aGwAkoy3WUyb_IRp27Y0wWhl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495899232236-kfjg2qo5lpra7ful80dlt5thc8gsnvq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
